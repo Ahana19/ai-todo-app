@@ -1,5 +1,5 @@
 # ---------- Deployment instructions ----------
-README = r'''
+
 To‑Do List Streamlit App with HuggingFace AI
 ===========================================
 
@@ -13,7 +13,7 @@ Features
 
 Files
 -----
-- app.py (this file)
+- app.py )
 - requirements.txt
 
 
@@ -34,11 +34,11 @@ Deploy to Streamlit Community Cloud
 ----------------------------------
 1. Push app.py + requirements.txt to a GitHub repo.
 2. Go to https://share.streamlit.io and deploy.
-3. Get your public URL (share it with recruiters).
+3. Get your public URL.
 
 
 Deploy to Replit
-----------------
+
 1. Create a new Python Repl, upload files.
 2. pip install -r requirements.txt
 3. Run: streamlit run app.py --server.port=$PORT
