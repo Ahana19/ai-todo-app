@@ -12,7 +12,7 @@ Features
 
 Files
 -----
-- app.py )
+- app.py 
 - requirements.txt
 
 
