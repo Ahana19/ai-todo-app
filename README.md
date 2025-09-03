@@ -1,4 +1,3 @@
-# ---------- Deployment instructions ----------
 
 To‑Do List Streamlit App with HuggingFace AI
 ===========================================
